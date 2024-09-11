@@ -1,0 +1,4 @@
+.env
+.venv
+PyWhatKit_DB.txt
+*.jpg
